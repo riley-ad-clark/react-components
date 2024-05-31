@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/riley-ad-clark/react-components/static/css/main.51af361d.css",
-    "main.js": "/riley-ad-clark/react-components/static/js/main.53a758a9.js",
-    "index.html": "/riley-ad-clark/react-components/index.html",
-    "main.51af361d.css.map": "/riley-ad-clark/react-components/static/css/main.51af361d.css.map",
-    "main.53a758a9.js.map": "/riley-ad-clark/react-components/static/js/main.53a758a9.js.map"
+    "main.css": "/react-components/static/css/main.51af361d.css",
+    "main.js": "/react-components/static/js/main.c743dc61.js",
+    "index.html": "/react-components/index.html",
+    "main.51af361d.css.map": "/react-components/static/css/main.51af361d.css.map",
+    "main.c743dc61.js.map": "/react-components/static/js/main.c743dc61.js.map"
   },
   "entrypoints": [
     "static/css/main.51af361d.css",
-    "static/js/main.53a758a9.js"
+    "static/js/main.c743dc61.js"
   ]
 }
